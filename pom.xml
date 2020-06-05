@@ -13,7 +13,7 @@
 	<artifactId>mssc-beer-inventory-failover</artifactId>
 	<version>1</version>
 	<name>mssc-beer-inventory-failover</name>
-	<description>mssc-brewery-eureka</description>
+	<description>mssc-beer-inventory-failover</description>
 
 	<properties>
 		<java.version>1.8</java.version>
